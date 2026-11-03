@@ -1,3 +1,10 @@
+# Environments and packages
 node_modules/
-dist/
+venv/
 .env
+
+# Databases and media
+db.sqlite3
+media/
+dist/
+build/
